@@ -64,7 +64,7 @@ const messages = [
   'Pag ako namatai',
   'Bawal mag nooooo',
   'Yes na kaww!!',
-  'Pag nag no, ibig sabihin fuck',
+  'Pag nag no ibig sabihin fuck',
   'dali man naaaaa',
 ];
 
