@@ -54,19 +54,20 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Sayangggg naman",
-    "Please bebuuuu",
-    "Labyuuuu man hihi",
-    "Ma sad man bebuuu!!",
-    "Kababaeng tao humihindi!",
-    "Pag ako namatai",
-    "Bawal mag nooooo",
-    "Yes na kawww!!",
-    "Pag nag no, ibig sabihin fuck",
-    "dali man naaaaa",
+  'Are you sure?',
+  'Really sure??',
+  'Sayanggg naman',
+  'Please bebuuu',
+  'Labuuuu man hihi',
+  'Ma sad man bebuuu!!',
+  'Kababeng tao humihindi!',
+  'Pag ako namatai',
+  'Bawal mag nooooo',
+  'Yes na kaww!!',
+  'Pag nag no, ibig sabihin fuck',
+  'dali man naaaaa',
 ];
+
 
 let messageIndex = 0;
 
