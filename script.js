@@ -65,6 +65,7 @@ const messages = [
     "Bawal mag nooooo",
     "Yes na kawww!!❤️"
     "Pag nag no, ibig sabihin fuck"
+    "dali man naaaaa"
 ];
 
 let messageIndex = 0;
